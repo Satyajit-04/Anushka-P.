@@ -1,0 +1,7 @@
+{
+  "name": "Google Drive PDF AI Chatbot",
+  "description": "AI-powered PDF chatbot using local LLM and Gemini models to query and summarize PDF documents loaded directly from Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
